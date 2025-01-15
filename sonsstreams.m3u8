@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Bochum 1848 vs FC St. Pauli (Stream 1)
-https://d12.jisdeshmaiganga.com:999/hls/mevent1.m3u8?md5=fUGJQFviMyo-bwMaaHCoTQ&expires=1736951779
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Newcastle United vs Wolverhampton (Stream 1)
-https://d11.jisdeshmaiganga.com:999/hls/nnewcastleunited.m3u8?md5=XqicgaUSJUWDsyVKORtUsg&expires=1736951783
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",SV Werder Bremen vs 1. FC Heidenheim (Stream 1)
-https://d12.jisdeshmaiganga.com:999/hls/mevent5.m3u8?md5=9U8NJJXMY3rooit9ZmN1jA&expires=1736951783
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Everton vs Aston Villa (Stream 1)
-https://jf2.naqsheala.com:999/hls/neverton.m3u8?md5=QgBwXsV56Q0--aTUw9cFdw&expires=1736951783
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",1. FC Union Berlin vs FC Augsburg (Stream 1)
-https://jf4.naqsheala.com:999/hls/mevent2.m3u8?md5=ngq3oteUcQSH9oNf8SC3VA&expires=1736951783
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfB Stuttgart vs RB Leipzig (Stream 1)
-https://d12.jisdeshmaiganga.com:999/hls/mevent4.m3u8?md5=JDzNw1585eX42Nc3E5Rsig&expires=1736951783
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",FC Bayern München vs TSG Hoffenheim (Stream 1)
-https://jf1.naqsheala.com:999/hls/mevent3.m3u8?md5=z-Qa10TR7wtFWUjX1nJl9Q&expires=1736951783
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Arsenal vs Tottenham Hotspur (Stream 1)
-https://jf1.naqsheala.com:999/hls/narsenal.m3u8?md5=bYQ7e683wWZSWSI0eIOArw&expires=1736951783
+https://d9.dunyapurkaraja.com:999/hls/mevent3.m3u8?md5=1qPwFSKnZFMZYq8ZqE3Nsg&expires=1736965371
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Leicester City vs Crystal Palace (Stream 1)
-https://d12.jisdeshmaiganga.com:999/hls/nleicestercity.m3u8?md5=LFMEr0MYc9Q4eKgQ1275Kg&expires=1736951784
+https://d8.dunyapurkaraja.com:999/hls/nleicestercity.m3u8?md5=8opluEwz7myV4jh2EBjo3g&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfB Stuttgart vs RB Leipzig (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mevent4.m3u8?md5=h03I-fQ5IwZ8piQNy8MoDw&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Arsenal vs Tottenham Hotspur (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/narsenal.m3u8?md5=qNcqHvP22a2bsDiv2eaiMw&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",SV Werder Bremen vs 1. FC Heidenheim (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mevent5.m3u8?md5=5SxFnf8idclzxZ9E5SbWBA&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Everton vs Aston Villa (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/neverton.m3u8?md5=JLff3qWCLJOlinmkotyeUA&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",1. FC Union Berlin vs FC Augsburg (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent2.m3u8?md5=oMqBV3zEbWD5MNqK80i9Kg&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Newcastle United vs Wolverhampton (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/nnewcastleunited.m3u8?md5=6htxPwiDNSa1YF-sq_oj8Q&expires=1736965371
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Bochum 1848 vs FC St. Pauli (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mevent1.m3u8?md5=4iptlELDUAsyahJXUuRzAQ&expires=1736965372
