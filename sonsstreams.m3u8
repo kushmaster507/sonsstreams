@@ -1,28 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Minnesota Wild vs Edmonton Oilers (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mminnesotawild.m3u8?md5=nAfRxMYsswF3RhXTxsyKDw&expires=1737008478
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Utah Jazz vs Charlotte Hornets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mutahjazz.m3u8?md5=rUs8kbu9rTQ1EERejEGlsQ&expires=1737008478
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Clippers vs Brooklyn Nets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mlosangelesclippers.m3u8?md5=tHkgYIr_H5SAg4Yb7N0IUw&expires=1737008474
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Ipswich Town vs Brighton & Hove Albion (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/nipswichtown.m3u8?md5=7QI9CqkBfL-TnnXd8VJN6g&expires=1737022968
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Manchester United vs Southampton (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/nmanchesterunited.m3u8?md5=MzwSFGNIMnohFpmeEWniXQ&expires=1737008478
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Minnesota Wild vs Edmonton Oilers (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/medmontonoilers.m3u8?md5=CCzUmbyG5DWs5LMM-7jqIg&expires=1737008478
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Ipswich Town vs Brighton & Hove Albion (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/nipswichtown.m3u8?md5=k0bT5BugzaMByh6g3_G0lw&expires=1737008478
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Minnesota Timberwolves vs Golden State Warriors (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mminneapolistimberwolves.m3u8?md5=rhTHk3xaGuV3gAVtoW8OlA&expires=1737008478
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Lakers vs Miami Heat (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mlosangeleslakers.m3u8?md5=C5WyQ8eXWfHxLHIjcajgkQ&expires=1737008476
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Denver Nuggets vs Houston Rockets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mdenvernuggets.m3u8?md5=BWYX31DyDFhdVzDBCUpm0A&expires=1737008478
+https://d9.dunyapurkaraja.com:999/hls/nmanchesterunited.m3u8?md5=SHMuNMLkwkMvZKWJByVRLA&expires=1737022968
