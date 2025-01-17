@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Eintracht Frankfurt vs Borussia Dortmund (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent10.m3u8?md5=cE0EAyRfeFKmg8-Te7n2ng&expires=1737138122
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Espanyol vs Real Valladolid (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=KcwJv_oOtFM7pANYUMvxHg&expires=1737138122
+https://d8.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=JEGRLJ4KrrXAM7QOu_CDpw&expires=1737152345
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Eintracht Frankfurt vs Borussia Dortmund (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mevent10.m3u8?md5=WnBZl7qnrfjYD9VzK6pWsA&expires=1737152338
