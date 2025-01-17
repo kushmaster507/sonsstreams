@@ -1,31 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Utah Hockey Club vs New York Rangers (Stream 2)
-https://d8.dunyapurkaraja.com:999/hls/mnewyorkrangers.m3u8?md5=BFd3tW2fRWcsKdGxHH4RRg&expires=1737094930
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Edmonton Oilers (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mcoloradoavalanche.m3u8?md5=L96TWZg9-dqGmPcbUmtbVA&expires=1737094933
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Vancouver Canucks vs Los Angeles Kings (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mvancouvercanucks.m3u8?md5=wF9Zc2fX1q325iiVYr-86w&expires=1737094933
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Utah Hockey Club vs New York Rangers (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mutahhockeyclub.m3u8?md5=KPF_n3cN8SLt8ZdbWVXdsQ&expires=1737094929
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Portland Trail Blazers vs Los Angeles Clippers (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mportlandtrailblazers.m3u8?md5=mHs_UwbGwkc55ZM2UaBDUA&expires=1737094936
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Sacramento Kings vs Houston Rockets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/msacramentokings.m3u8?md5=kj9tpSXyehJL-_maA1AwAg&expires=1737094929
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Espanyol vs Real Valladolid (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=uYet6WE6l7JxwwHmF_553g&expires=1737109366
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Eintracht Frankfurt vs Borussia Dortmund (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent10.m3u8?md5=_MdNKt9QGeaa9daMMsyb4g&expires=1737094936
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Vancouver Canucks vs Los Angeles Kings (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mlosangeleskings.m3u8?md5=GFcsaoE0zD29NRr-JJY5xQ&expires=1737094936
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Espanyol vs Real Valladolid (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=HH8i8Whs-evIWheJv9xKeA&expires=1737094936
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Edmonton Oilers (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/medmontonoilers.m3u8?md5=vW-d-y-frLoEekYy7zYeoA&expires=1737094936
+https://d9.dunyapurkaraja.com:999/hls/mevent10.m3u8?md5=6uhD4TmRnIe7hIgak_mvwg&expires=1737109366
