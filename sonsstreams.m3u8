@@ -1,109 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Newcastle United vs Bournemouth (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/nnewcastleunited.m3u8?md5=tU5CkoSZsrRhkF0wMou5eg&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Carolina Hurricanes vs Vegas Golden Knights (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mvegasgoldenknights.m3u8?md5=FRCJ4IyjAQrHaws1OTN5kA&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New Jersey Devils vs Philadelphia Flyers (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mphiladelphiaflyers.m3u8?md5=q4N89K4IMwar8skC6cEwOA&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Carolina Hurricanes vs Vegas Golden Knights (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mcarolinahurricanes.m3u8?md5=SS-bFg81fMAGBzmx8qn7OA&expires=1737170406
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Ottawa Senators vs Boston Bruins (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mottawasenators.m3u8?md5=N5ZDXEYWjTOgeqBsccQj-Q&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Chicago Bulls vs Charlotte Hornets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mchicagobulls.m3u8?md5=ZJApivp1EI2pxLLZ1ai7UA&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",New Orleans Pelicans vs Utah Jazz (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mneworleanspelicans.m3u8?md5=WsUzsq4lZh-dHh9yejtHew&expires=1737170410
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",San Antonio Spurs vs Memphis Grizzlies (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/msanantoniospurs.m3u8?md5=KUYumz7N0vy_fIBf2t2B1g&expires=1737170412
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",1. FC Heidenheim vs FC St. Pauli (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent10.m3u8?md5=mWhd1eCa8e-Bkl1AksIgOA&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Bayer 04 Leverkusen vs Borussia M'gladbach (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent15.m3u8?md5=X2tFGGc9zPoQt5M5kr0M8w&expires=1737170414
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Milwaukee Bucks vs Toronto Raptors (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mmilwaukeebucks.m3u8?md5=_XVFWIJeDLZzsEDPA4jJLA&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Real Betis vs Alavés (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=jhumDfDW1LksrYSfKkkSug&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Detroit Pistons vs Phoenix Suns (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mdetroitpistons.m3u8?md5=zfEf6IvVwlnQU2yFKVikeA&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Getafe vs Barcelona (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=jhumDfDW1LksrYSfKkkSug&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Lakers vs Brooklyn Nets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mlosangeleslakers.m3u8?md5=dTBMWxwIBONmLLU1WQ7LIw&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Dallas Stars (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mcoloradoavalanche.m3u8?md5=vczqm3h7jdQxLJO-7bhg9A&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Girona FC vs Sevilla (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=jhumDfDW1LksrYSfKkkSug&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Bochum 1848 vs RB Leipzig (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent14.m3u8?md5=ySvd8cG6koE33bocz7mNkw&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Buffalo Sabres vs Pittsburgh Penguins (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mbuffalosabres.m3u8?md5=mgXSFFNJfUB_QMwg9HhJ7A&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",West Ham United vs Crystal Palace (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/nwesthamunited.m3u8?md5=6gvK-mrFCJ-c92qEwIRC3A&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Leicester City vs Fulham (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/nleicestercity.m3u8?md5=5LX2Z8BQ-1ifcYsJlDOqFg&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Boston Celtics vs Orlando Magic (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mbostonceltics.m3u8?md5=3fkNKBT481gGcydGy8yzzw&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Miami Heat vs Denver Nuggets (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mmiamiheat.m3u8?md5=evrb7_5RQmMaxuGA6imqbQ&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",FC Bayern München vs VfL Wolfsburg (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent11.m3u8?md5=s7Comp6wu77QMoR7i8DKeA&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Arsenal vs Aston Villa (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/narsenal.m3u8?md5=aKPuC-oaaVK6EBsCW1zY1g&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Holstein Kiel vs TSG Hoffenheim (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent12.m3u8?md5=z2gcJRlwHMv62r-WXBrYrw&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/29.png" group-title="NFL",Kansas City Chiefs vs Houston Texans (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mkansascitychiefs.m3u8?md5=ED7RrihaIGnFWc7oB9W3lg&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Ottawa Senators vs Boston Bruins (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mbostonbruins.m3u8?md5=Jxog0QbTiGjAesf9lM17Wg&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Dallas Stars (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mdallasstars.m3u8?md5=juc5V9fZUkEqUSXGevdQJA&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Buffalo Sabres vs Pittsburgh Penguins (Stream 2)
-https://d8.dunyapurkaraja.com:999/hls/mpittsburghpenguins.m3u8?md5=HKzayCeD0tjj5f4vYFplEw&expires=1737170415
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Brentford vs Liverpool (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/nbrentford.m3u8?md5=2wktQ7e5551AAm2Q2s6mEw&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfB Stuttgart vs SC Freiburg (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent13.m3u8?md5=E88BMgqKw48psIx6VBBXVA&expires=1737170415
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New Jersey Devils vs Philadelphia Flyers (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mnewjerseydevils.m3u8?md5=3lOg4g7Vdx5ko1PsqPa4nQ&expires=1737170415
+https://d9.dunyapurkaraja.com:999/hls/nbrentford.m3u8?md5=KgXceOD7Luv7mZd-28WYLw&expires=1737181235
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Dallas Mavericks vs Oklahoma City Thunder (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mdallasmavericks.m3u8?md5=4yBJHbBfA_uq7AfAZy8Pug&expires=1737170415
+https://d9.dunyapurkaraja.com:999/hls/mdallasmavericks.m3u8?md5=v4hQQcSqLdEl3VL_kKIb-Q&expires=1737181235
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",New York Knicks vs Minnesota Timberwolves (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mnewyorkknicks.m3u8?md5=9VzKHZxjCGQ4BmW-X0RDhg&expires=1737170415
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Detroit Pistons vs Phoenix Suns (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mdetroitpistons.m3u8?md5=QUkn9-set17NQdTpxnYK5Q&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",San Antonio Spurs vs Memphis Grizzlies (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/msanantoniospurs.m3u8?md5=cDv3YnfvxSATAWPgjpk4MA&expires=1737181226
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Newcastle United vs Bournemouth (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/nnewcastleunited.m3u8?md5=wgmoReSWc2N6Er48MQg3dQ&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfB Stuttgart vs SC Freiburg (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent13.m3u8?md5=WJ2tgoFDTFhSTe5ErQDY4w&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Girona FC vs Sevilla (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=RyIkfhkbfvux_7SJgPZOUw&expires=1737181235
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Leganés vs Atlético Madrid (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=jhumDfDW1LksrYSfKkkSug&expires=1737170415
+https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=RyIkfhkbfvux_7SJgPZOUw&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Bayer 04 Leverkusen vs Borussia M'gladbach (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent15.m3u8?md5=XkCauTiOfHVHtMcMA2XJUA&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Getafe vs Barcelona (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=RyIkfhkbfvux_7SJgPZOUw&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/29.png" group-title="NFL",Kansas City Chiefs vs Houston Texans (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mkansascitychiefs.m3u8?md5=7hxRVIR784RgE40rA6flrQ&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Real Betis vs Alavés (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=RyIkfhkbfvux_7SJgPZOUw&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Lakers vs Brooklyn Nets (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mlosangeleslakers.m3u8?md5=bMuAHqjFF8ZSkCl15vToaw&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Ottawa Senators vs Boston Bruins (Stream 2)
+https://d9.dunyapurkaraja.com:999/hls/mbostonbruins.m3u8?md5=LeUKCMVPD2WY7HCwDWCbtg&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Leicester City vs Fulham (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/nleicestercity.m3u8?md5=1Z3azx3MqqPwSdeIahZqQw&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",Holstein Kiel vs TSG Hoffenheim (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent12.m3u8?md5=oImUNeDBqBShJC0Gi92-ww&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",1. FC Heidenheim vs FC St. Pauli (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent10.m3u8?md5=A3JaaSz90upl86Cr6AqAkA&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Ottawa Senators vs Boston Bruins (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mottawasenators.m3u8?md5=ZVrY1DQ4RAFFrEd0mBowHg&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Arsenal vs Aston Villa (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/narsenal.m3u8?md5=8WsC_JKC8IuBks3qk7T7kw&expires=1737181235
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New Jersey Devils vs Philadelphia Flyers (Stream 2)
+https://d9.dunyapurkaraja.com:999/hls/mphiladelphiaflyers.m3u8?md5=wWnbK01BgapVRHj8X9u3Aw&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Bochum 1848 vs RB Leipzig (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mevent14.m3u8?md5=73GTKxH85YtbnVNyVqAmMQ&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",FC Bayern München vs VfL Wolfsburg (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent11.m3u8?md5=n7Vbr9VGYr-v2cSfDTWdXg&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Dallas Stars (Stream 2)
+https://d8.dunyapurkaraja.com:999/hls/mdallasstars.m3u8?md5=bgq7kuhXMJyLG7U8e7fYoQ&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Dallas Stars (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mcoloradoavalanche.m3u8?md5=C3q9GAuRKtAF5feVX73kUA&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New Jersey Devils vs Philadelphia Flyers (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mnewjerseydevils.m3u8?md5=VRuyG3HrLs1wu1qr_I95Iw&expires=1737181236
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",West Ham United vs Crystal Palace (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/nwesthamunited.m3u8?md5=X3iTtM9f5iWeD4ZUAglZ6g&expires=1737181236
