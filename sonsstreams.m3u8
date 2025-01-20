@@ -1,43 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Charlotte Hornets vs Dallas Mavericks (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mcharlottehornets.m3u8?md5=mhyaMYJ-6P90MU43MfLNTg&expires=1737397377
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs San Jose Sharks (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mbostonbruins.m3u8?md5=dhJWvA-CviTAMDhP9wqLEA&expires=1737411516
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Minnesota Wild (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mminnesotawild.m3u8?md5=FmauxpmFbdJltY4BuNvyjQ&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Seattle Kraken vs Buffalo Sabres (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/mbuffalosabres.m3u8?md5=6la-3h35jQRYeHpkUhMhqg&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs San Jose Sharks (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mbostonbruins.m3u8?md5=2_5g-Bafu5PwzU2igp_Pxw&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs San Jose Sharks (Stream 2)
-https://d9.dunyapurkaraja.com:999/hls/msanjosesharks.m3u8?md5=flg8Hc-alBLtoWbMjHnJvQ&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Villarreal vs Mallorca (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=5JMmMk3ZNJopL_rUbdLFAA&expires=1737397381
+https://d9.dunyapurkaraja.com:999/hls/mminnesotawild.m3u8?md5=kx61GnUxcePp1iGcgisqOw&expires=1737411507
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Memphis Grizzlies vs Minnesota Timberwolves (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mmemphisgrizzlies.m3u8?md5=aF1PhEPFdj7PvIhlr04YCA&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Minnesota Wild (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mcoloradoavalanche.m3u8?md5=6TSpF1umtSD53BYBbIfW-g&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Golden State Warriors vs Boston Celtics (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mgoldenstatewarriors.m3u8?md5=a2g_92Gn3H2mOfanRzrCJQ&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Seattle Kraken vs Buffalo Sabres (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mseattlekraken.m3u8?md5=RygQs3D1eIP7t15Urd40Hw&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",New York Knicks vs Atlanta Hawks (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mnewyorkknicks.m3u8?md5=bclFgHmIJDqtmUy3DP5fPw&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Chelsea vs Wolverhampton (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/nchelsea.m3u8?md5=uicvGez1X8PdIYFHnYW-1A&expires=1737397381
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Cleveland Cavaliers vs Phoenix Suns (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mclevelandcavaliers.m3u8?md5=sLxyGiZhk4DbCK6SR35NJQ&expires=1737397381
+https://d9.dunyapurkaraja.com:999/hls/mmemphisgrizzlies.m3u8?md5=xAtM2YnQGgU6dGYxTNLpjQ&expires=1737411508
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Houston Rockets vs Detroit Pistons (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mhoustonrockets.m3u8?md5=Ai-w9lH4IsLfthm8pncpCA&expires=1737397381
+https://d9.dunyapurkaraja.com:999/hls/mhoustonrockets.m3u8?md5=dLS8hW9jXf-PNnJR0gPh6g&expires=1737411513
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Minnesota Wild (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mcoloradoavalanche.m3u8?md5=y9k_2r8mmCZmrOsNEbRNPw&expires=1737411511
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Golden State Warriors vs Boston Celtics (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mgoldenstatewarriors.m3u8?md5=us33bXhtszek-XQXNrlbqQ&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Seattle Kraken vs Buffalo Sabres (Stream 2)
+https://d9.dunyapurkaraja.com:999/hls/mbuffalosabres.m3u8?md5=VWz3iwb68Th22Q4k6VA3Ig&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Cleveland Cavaliers vs Phoenix Suns (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mclevelandcavaliers.m3u8?md5=AOltZtMz-6Grr4FjSo6SRg&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Seattle Kraken vs Buffalo Sabres (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mseattlekraken.m3u8?md5=RbfA_sORHQkiRGcV2_zTIg&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs San Jose Sharks (Stream 2)
+https://d8.dunyapurkaraja.com:999/hls/msanjosesharks.m3u8?md5=_f4O-CkpgkCUq1vWvZylDQ&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Chelsea vs Wolverhampton (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/nchelsea.m3u8?md5=fK1aGOKdrYb6GkBLj1vjng&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",New York Knicks vs Atlanta Hawks (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mnewyorkknicks.m3u8?md5=VKveZG9SHOt_kUzFCrOqIg&expires=1737411516
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Villarreal vs Mallorca (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mespndeportes.m3u8?md5=cTI6qedCJXfRTa279qJxsQ&expires=1737411516
