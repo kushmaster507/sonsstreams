@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Atlético Madrid vs Bayer 04 Leverkusen (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent2.m3u8?md5=bWsodB0d083stp7smqqzQg&expires=1737470202
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Bologna vs Borussia Dortmund (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent4.m3u8?md5=pidj0hKJVf9b4yA2TVDztA&expires=1737470202
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Benfica vs Barcelona (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent3.m3u8?md5=FhBnXazS0bXKchLDRv9BCw&expires=1737470202
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",AS Monaco vs Aston Villa (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent1.m3u8?md5=EQ_HGuJwO9CJX_QEbiyb9g&expires=1737470202
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Liverpool vs Lille (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent6.m3u8?md5=FXhjBhxZzES778UouAVQvA&expires=1737470202
+https://d9.dunyapurkaraja.com:999/hls/mevent4.m3u8?md5=0nZZzU1GAOgQ3s5vzs8Eww&expires=1737483830
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Club Brugge KV vs Juventus (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent5.m3u8?md5=JGWa3_VKPt4W4cbOzEN7jw&expires=1737470202
+https://d9.dunyapurkaraja.com:999/hls/mevent5.m3u8?md5=VoAJGNCEegJN_ZBBF-u7eQ&expires=1737483830
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Liverpool vs Lille (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent6.m3u8?md5=9tYXpCHDHXAXX9NifVUaEg&expires=1737483830
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Benfica vs Barcelona (Stream 1)
+https://d8.dunyapurkaraja.com:999/hls/mevent3.m3u8?md5=76zMRsawcAMWHy-106v3PA&expires=1737483830
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",AS Monaco vs Aston Villa (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent1.m3u8?md5=fi3IsVXLRLV50zj3wH2tBQ&expires=1737483830
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Atlético Madrid vs Bayer 04 Leverkusen (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent2.m3u8?md5=dggqVDiebapaBpnVNx85Jg&expires=1737483830
