@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Arsenal vs GNK Dinamo Zagreb (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent2.m3u8?md5=_W6MGXFI9cKdjhEcAIk3eA&expires=1737556597
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Real Madrid vs Red Bull Salzburg (Stream 1)
-https://d9.dunyapurkaraja.com:999/hls/mevent5.m3u8?md5=qVKn6DzO82kE9fMTH-1KdQ&expires=1737556597
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Feyenoord vs FC Bayern München (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent3.m3u8?md5=983YmQYg2DHsGKtjIJBhUQ&expires=1737556597
+https://d9.dunyapurkaraja.com:999/hls/mevent5.m3u8?md5=Q8DqOjJvZelEPs1rOagLIw&expires=1737570242
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Paris Saint-Germain vs Manchester City (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent4.m3u8?md5=_2WGCxyjO4DdApZ5_qLqyA&expires=1737556597
+https://d8.dunyapurkaraja.com:999/hls/mevent4.m3u8?md5=w2xLWs4AbBN0_I9pCmavTA&expires=1737570242
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",RB Leipzig vs Sporting (Stream 1)
-https://d8.dunyapurkaraja.com:999/hls/mevent1.m3u8?md5=JNCfhYgXYjQ8sCr3gvGqzQ&expires=1737556597
+https://d8.dunyapurkaraja.com:999/hls/mevent1.m3u8?md5=bTrZE6OKzolsQZgzQaUaCQ&expires=1737570242
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Feyenoord vs FC Bayern München (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent3.m3u8?md5=hMC3qrR-Tm1ci1u1l_EbNQ&expires=1737570242
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/7.png" group-title="UEFA CHAMPIONS LEAGUE",Arsenal vs GNK Dinamo Zagreb (Stream 1)
+https://d9.dunyapurkaraja.com:999/hls/mevent2.m3u8?md5=gKLveoMQQZmSvska5TR2TQ&expires=1737570242
