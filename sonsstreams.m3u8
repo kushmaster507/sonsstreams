@@ -1,28 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Winnipeg Jets (Stream 1)
-https://jf2.naqsheala.com:999/hls/mcoloradoavalanche.m3u8?md5=g2al-V5foYagLzPiQraERQ&expires=1737613300
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Clippers vs Boston Celtics (Stream 1)
-https://jf4.naqsheala.com:999/hls/mlosangelesclippers.m3u8?md5=qS5CoTc3DtqRo7dv6Wc3FA&expires=1737613294
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Los Angeles Kings vs Florida Panthers (Stream 1)
-https://jf4.naqsheala.com:999/hls/mlosangeleskings.m3u8?md5=brw7u52q-whormuMXz8hHw&expires=1737613299
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/8.png" group-title="EUROPA LEAGUE",TSG Hoffenheim vs Tottenham Hotspur (Stream 1)
-https://jf2.naqsheala.com:999/hls/mevent1.m3u8?md5=FLBIvYHcpALIcEH7KdvH9g&expires=1737613303
+https://jf2.naqsheala.com:999/hls/mevent1.m3u8?md5=KnBJ-4s9RfvU1TJ2mH2tPQ&expires=1737627838
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Indiana Pacers vs San Antonio Spurs (Stream 1)
-https://jf3.naqsheala.com:999/hls/mindianapacers.m3u8?md5=Nac9EK6u54MQAuCOJK0J_g&expires=1737613303
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Sacramento Kings vs Golden State Warriors (Stream 1)
-https://jf2.naqsheala.com:999/hls/msacramentokings.m3u8?md5=BhWtFRVg3I-Yy9tErVnp8A&expires=1737613303
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Winnipeg Jets (Stream 2)
-https://jf2.naqsheala.com:999/hls/mwinnipegjets.m3u8?md5=XiJYApPehx37vuSGQO_AwA&expires=1737613303
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Los Angeles Kings vs Florida Panthers (Stream 2)
-https://jf1.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=NcgHdzD2BTLLGKoAhimrlA&expires=1737613303
+https://jf3.naqsheala.com:999/hls/mindianapacers.m3u8?md5=7bqdqimrcjS_Z774dDbQtg&expires=1737627838
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/8.png" group-title="EUROPA LEAGUE",Manchester United vs Rangers (Stream 1)
-https://jf2.naqsheala.com:999/hls/mevent2.m3u8?md5=PkDr4duupcFEgQNvSBAgRQ&expires=1737613303
+https://jf1.naqsheala.com:999/hls/mevent2.m3u8?md5=y9SY3uQsAPYGJ5YdSe6tCg&expires=1737627838
