@@ -1,58 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New Jersey Devils vs Boston Bruins (Stream 2)
-https://jf4.naqsheala.com:999/hls/mbostonbruins.m3u8?md5=AJGCcoyWzGdyJ0gcBoX3gA&expires=1737602555
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Winnipeg Jets (Stream 1)
-https://jf2.naqsheala.com:999/hls/mcoloradoavalanche.m3u8?md5=1yUoLj-LfF1Y-0bL1JeslA&expires=1737602562
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Dallas Mavericks vs Minnesota Timberwolves (Stream 1)
-https://jf4.naqsheala.com:999/hls/mdallasmavericks.m3u8?md5=FrLsUwK_GXaUR7ydIzI7oQ&expires=1737602555
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Memphis Grizzlies vs Charlotte Hornets (Stream 1)
-https://jf4.naqsheala.com:999/hls/mmemphisgrizzlies.m3u8?md5=R_lXLz5QtZ8pA2RdzifY_g&expires=1737602562
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New Jersey Devils vs Boston Bruins (Stream 1)
-https://jf3.naqsheala.com:999/hls/mnewjerseydevils.m3u8?md5=xyySIeVYVe0mhon7cmjo6g&expires=1737602559
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/8.png" group-title="EUROPA LEAGUE",TSG Hoffenheim vs Tottenham Hotspur (Stream 1)
-https://jf3.naqsheala.com:999/hls/mevent1.m3u8?md5=cNs9IJrn7SctL8OJzaHxtw&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Oklahoma City Thunder vs Utah Jazz (Stream 1)
-https://jf2.naqsheala.com:999/hls/moklahomacitythunder.m3u8?md5=qYAXDlkR8aCKWT1zKRvtbQ&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Toronto Maple Leafs vs Columbus Blue Jackets (Stream 2)
-https://jf1.naqsheala.com:999/hls/mcolumbusbluejackets.m3u8?md5=Shyo7fZMAQZTXnjRmv1g1A&expires=1737602561
+https://jf2.naqsheala.com:999/hls/mcoloradoavalanche.m3u8?md5=g2al-V5foYagLzPiQraERQ&expires=1737613300
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Clippers vs Boston Celtics (Stream 1)
-https://jf1.naqsheala.com:999/hls/mlosangelesclippers.m3u8?md5=NKlfAZ3tFbtdt4Xd71szIg&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Los Angeles Kings vs Florida Panthers (Stream 2)
-https://jf1.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=H6mY1c55pZCSmkYAU0hVIg&expires=1737602563
+https://jf4.naqsheala.com:999/hls/mlosangelesclippers.m3u8?md5=qS5CoTc3DtqRo7dv6Wc3FA&expires=1737613294
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Los Angeles Kings vs Florida Panthers (Stream 1)
-https://jf2.naqsheala.com:999/hls/mlosangeleskings.m3u8?md5=OjDwl2sXzLeOLkc4cAzPpQ&expires=1737602563
+https://jf4.naqsheala.com:999/hls/mlosangeleskings.m3u8?md5=brw7u52q-whormuMXz8hHw&expires=1737613299
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Atlanta Hawks vs Detroit Pistons (Stream 1)
-https://jf4.naqsheala.com:999/hls/matlantahawks.m3u8?md5=3MIuYUMHfZ4UdgTJR6MTdw&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Toronto Maple Leafs vs Columbus Blue Jackets (Stream 1)
-https://jf2.naqsheala.com:999/hls/mtorontomapleleafs.m3u8?md5=UKQ9aFcYOq50MIuOljXJLQ&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Brooklyn Nets vs Phoenix Suns (Stream 1)
-https://jf4.naqsheala.com:999/hls/mbrooklynnets.m3u8?md5=YVn4m9L6jRtbbHsVoHYtyw&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Houston Rockets vs Cleveland Cavaliers (Stream 1)
-https://jf1.naqsheala.com:999/hls/mhoustonrockets.m3u8?md5=om4i-CiLpe72UZyifN2yPQ&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/8.png" group-title="EUROPA LEAGUE",Manchester United vs Rangers (Stream 1)
-https://jf3.naqsheala.com:999/hls/mevent2.m3u8?md5=_cNyPQxPiSX3o2u7cg0YuQ&expires=1737602563
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Sacramento Kings vs Golden State Warriors (Stream 1)
-https://jf2.naqsheala.com:999/hls/msacramentokings.m3u8?md5=zS6fO3irupTdvKPridyhXA&expires=1737602563
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/8.png" group-title="EUROPA LEAGUE",TSG Hoffenheim vs Tottenham Hotspur (Stream 1)
+https://jf2.naqsheala.com:999/hls/mevent1.m3u8?md5=FLBIvYHcpALIcEH7KdvH9g&expires=1737613303
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Indiana Pacers vs San Antonio Spurs (Stream 1)
-https://jf4.naqsheala.com:999/hls/mindianapacers.m3u8?md5=SDHAzQ1mfn5xV2NIZQyMmA&expires=1737602563
+https://jf3.naqsheala.com:999/hls/mindianapacers.m3u8?md5=Nac9EK6u54MQAuCOJK0J_g&expires=1737613303
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Sacramento Kings vs Golden State Warriors (Stream 1)
+https://jf2.naqsheala.com:999/hls/msacramentokings.m3u8?md5=BhWtFRVg3I-Yy9tErVnp8A&expires=1737613303
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs Winnipeg Jets (Stream 2)
-https://jf4.naqsheala.com:999/hls/mwinnipegjets.m3u8?md5=P0tlfPoD8BK-_Yk8PalPVQ&expires=1737602563
+https://jf2.naqsheala.com:999/hls/mwinnipegjets.m3u8?md5=XiJYApPehx37vuSGQO_AwA&expires=1737613303
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Los Angeles Kings vs Florida Panthers (Stream 2)
+https://jf1.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=NcgHdzD2BTLLGKoAhimrlA&expires=1737613303
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/8.png" group-title="EUROPA LEAGUE",Manchester United vs Rangers (Stream 1)
+https://jf2.naqsheala.com:999/hls/mevent2.m3u8?md5=PkDr4duupcFEgQNvSBAgRQ&expires=1737613303
