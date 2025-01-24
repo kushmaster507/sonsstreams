@@ -1,55 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Golden State Warriors vs Chicago Bulls (Stream 1)
-https://jf3.naqsheala.com:999/hls/mgoldenstatewarriors.m3u8?md5=CrZYD2dqvSfBNP2ejCDMMQ&expires=1737699704
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Edmonton Oilers vs Vancouver Canucks (Stream 2)
-https://jf4.naqsheala.com:999/hls/mvancouvercanucks.m3u8?md5=98jAYXFy4DZET7GnbqFkLw&expires=1737699703
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Lakers vs Boston Celtics (Stream 1)
-https://jf3.naqsheala.com:999/hls/mlosangeleslakers.m3u8?md5=wAHWp4mcjAORfoJE6gc-EQ&expires=1737699710
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Edmonton Oilers vs Vancouver Canucks (Stream 1)
-https://jf1.naqsheala.com:999/hls/medmontonoilers.m3u8?md5=wTb0NiXobBOY4ZIF4lx7Jg&expires=1737699710
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Seattle Kraken vs Washington Capitals (Stream 1)
-https://jf2.naqsheala.com:999/hls/mseattlekraken.m3u8?md5=XVOJFcl2SXa07WeCVE_whQ&expires=1737699707
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Denver Nuggets vs Sacramento Kings (Stream 1)
-https://jf4.naqsheala.com:999/hls/mdenvernuggets.m3u8?md5=Vbs1ltC5NcWyYF7egYGGDQ&expires=1737699705
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Calgary Flames vs Buffalo Sabres (Stream 1)
-https://jf4.naqsheala.com:999/hls/mcalgaryflames.m3u8?md5=tanI6ZphN54HOtnkZtCywQ&expires=1737699703
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Las Palmas vs Osasuna (Stream 1)
-https://jf4.naqsheala.com:999/hls/mespndeportes.m3u8?md5=_6h3eAJFlpQzEKwqgedhrw&expires=1737699711
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",San Jose Sharks vs Nashville Predators (Stream 1)
-https://jf1.naqsheala.com:999/hls/msanjosesharks.m3u8?md5=OyZ_scJuKGkGBGCexTIkfA&expires=1737699712
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/31.png" group-title="BOXING",Eric Priest vs Tyler Howard (Stream 1)
-https://jf4.naqsheala.com:999/hls/mevent1.m3u8?md5=77dYvpzd9Au6LglqvNEMKg&expires=1737699712
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/31.png" group-title="BOXING",Naoya Inoue vs Ye Joon Kim (Stream 1)
-https://jf3.naqsheala.com:999/hls/mevent2.m3u8?md5=-OzKhrq3N2bqKWUr0A26hg&expires=1737699712
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Los Angeles Clippers vs Washington Wizards (Stream 1)
-https://jf2.naqsheala.com:999/hls/mlosangelesclippers.m3u8?md5=L3tAdPFFR8_UKDNj6_-4uw&expires=1737699711
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",San Jose Sharks vs Nashville Predators (Stream 2)
-https://jf4.naqsheala.com:999/hls/mtnashvillepredators.m3u8?md5=9USgjk5X_fmU14XzBQKAsg&expires=1737699712
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Calgary Flames vs Buffalo Sabres (Stream 2)
-https://jf1.naqsheala.com:999/hls/mbuffalosabres.m3u8?md5=lM8c0PoFCMuGRh8FEMC47w&expires=1737699711
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Seattle Kraken vs Washington Capitals (Stream 2)
-https://jf1.naqsheala.com:999/hls/mwashingtoncapitals.m3u8?md5=go-5d760jhbVMmNeP7ZAbg&expires=1737699712
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Anaheim Ducks vs Pittsburgh Penguins (Stream 2)
-https://jf3.naqsheala.com:999/hls/mpittsburghpenguins.m3u8?md5=7aZ6ROEQ-kQB7tb3H8PsBw&expires=1737699712
+https://jf3.naqsheala.com:999/hls/mevent2.m3u8?md5=arWJCtb01-sZOmEF4gtaCQ&expires=1737714211
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Wolfsburg vs Holstein Kiel (Stream 1)
-https://jf2.naqsheala.com:999/hls/mevent10.m3u8?md5=V5T6krvSiQ-h6h5Eo08xsg&expires=1737699712
+https://jf3.naqsheala.com:999/hls/mevent10.m3u8?md5=XFr7maJL77uMB7w-F1KzaQ&expires=1737714211
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Anaheim Ducks vs Pittsburgh Penguins (Stream 1)
-https://jf3.naqsheala.com:999/hls/manheimducks.m3u8?md5=e1Ng96nMs-wKiH63wOztzg&expires=1737699712
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Las Palmas vs Osasuna (Stream 1)
+https://jf4.naqsheala.com:999/hls/mespndeportes.m3u8?md5=sBBlh6wkfdFgaSr6hUEHSw&expires=1737714211
