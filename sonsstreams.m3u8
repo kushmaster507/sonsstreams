@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/31.png" group-title="BOXING",Naoya Inoue vs Ye Joon Kim (Stream 1)
-https://jf3.naqsheala.com:999/hls/mevent2.m3u8?md5=arWJCtb01-sZOmEF4gtaCQ&expires=1737714211
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Wolfsburg vs Holstein Kiel (Stream 1)
-https://jf3.naqsheala.com:999/hls/mevent10.m3u8?md5=XFr7maJL77uMB7w-F1KzaQ&expires=1737714211
+https://jf3.naqsheala.com:999/hls/mevent2.m3u8?md5=9Kxe-48xshTXCrgynWH62w&expires=1737729341
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Las Palmas vs Osasuna (Stream 1)
-https://jf4.naqsheala.com:999/hls/mespndeportes.m3u8?md5=sBBlh6wkfdFgaSr6hUEHSw&expires=1737714211
+https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=ac6p3v_ICHBVUsEvzlB7Gg&expires=1737729341
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/78.jpg" group-title="BUNDESLIGA",VfL Wolfsburg vs Holstein Kiel (Stream 1)
+https://jf1.naqsheala.com:999/hls/mevent10.m3u8?md5=yH6-_Os8_GVgiBs0mo4yGA&expires=1737729341
