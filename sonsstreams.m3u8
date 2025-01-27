@@ -1,25 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Athletic Club vs Leganés (Stream 1)
-https://jf3.naqsheala.com:999/hls/mespndeportes.m3u8?md5=7qn8nmPqMbjAQpS2ZJrSGw&expires=1737929891
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Winnipeg Jets vs Calgary Flames (Stream 1)
+https://jf2.naqsheala.com:999/hls/mwinnipegjets.m3u8?md5=zkvkvo3FjY8t_V_uA-ym9Q&expires=1737948243
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New York Rangers vs Colorado Avalanche (Stream 1)
-https://jf3.naqsheala.com:999/hls/mnewyorkrangers.m3u8?md5=QDVFFq_CpOYFPK0oK3RFRw&expires=1737929894
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Alavés vs Celta Vigo (Stream 1)
+https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=mSUIYbPcBalSZkOHC_S5kg&expires=1737948247
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Ottawa Senators vs Utah Hockey Club (Stream 1)
-https://jf3.naqsheala.com:999/hls/mottawasenators.m3u8?md5=NE3b2vp4_DtguiDWAbQ2Kw&expires=1737929899
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/29.png" group-title="NFL",Kansas City Chiefs vs Buffalo Bills (Stream 1)
+https://jf3.naqsheala.com:999/hls/mkansascitychiefs.m3u8?md5=3v7cGR6aGDrvu-sacniaOA&expires=1737948243
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/29.png" group-title="NFL",Philadelphia Eagles vs Washington Commanders (Stream 1)
-https://jf1.naqsheala.com:999/hls/mphiladelphiaeagles.m3u8?md5=ks70lu4Pgl1r5ti5jtDFBg&expires=1737929894
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Winnipeg Jets vs Calgary Flames (Stream 2)
+https://jf2.naqsheala.com:999/hls/mcalgaryflames.m3u8?md5=HW9CMuOIM1mDLOH4qqSQYA&expires=1737948247
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Fulham vs Manchester United (Stream 1)
-https://jf3.naqsheala.com:999/hls/nfulham.m3u8?md5=YHPuoKzYIE-7zwjq0jkcFg&expires=1737929896
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Portland Trail Blazers vs Oklahoma City Thunder (Stream 1)
+https://jf2.naqsheala.com:999/hls/mportlandtrailblazers.m3u8?md5=dGAOTWG_XDddGEQjPpGRKA&expires=1737948245
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Barcelona vs Valencia (Stream 1)
-https://jf3.naqsheala.com:999/hls/mespndeportes.m3u8?md5=7qn8nmPqMbjAQpS2ZJrSGw&expires=1737929891
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Chicago Blackhawks vs Minnesota Wild (Stream 2)
+https://jf2.naqsheala.com:999/hls/mminnesotawild.m3u8?md5=tfdX1fWyBsSHviW8RsWnYg&expires=1737948248
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",New York Rangers vs Colorado Avalanche (Stream 2)
-https://jf3.naqsheala.com:999/hls/mcoloradoavalanche.m3u8?md5=e1U_tCw3Xh7WE-vAWNI9hw&expires=1737929896
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Vegas Golden Knights vs Florida Panthers (Stream 1)
+https://jf3.naqsheala.com:999/hls/mvegasgoldenknights.m3u8?md5=kzmaOLlmIEZekOng4i163Q&expires=1737948247
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Ottawa Senators vs Utah Hockey Club (Stream 2)
-https://jf4.naqsheala.com:999/hls/mutahhockeyclub.m3u8?md5=eMLRPnS-2JIIn81r6SUHXQ&expires=1737929899
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Chicago Blackhawks vs Minnesota Wild (Stream 1)
+https://jf4.naqsheala.com:999/hls/mchicagoblackhawks.m3u8?md5=CHaaF7Vl35iGc9oBbKh2bA&expires=1737948248
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Vegas Golden Knights vs Florida Panthers (Stream 2)
+https://jf1.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=3IT3xejzMMj7_pIJMpcOKw&expires=1737948248
