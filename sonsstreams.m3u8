@@ -1,28 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Winnipeg Jets vs Calgary Flames (Stream 1)
-https://jf2.naqsheala.com:999/hls/mwinnipegjets.m3u8?md5=zkvkvo3FjY8t_V_uA-ym9Q&expires=1737948243
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Alavés vs Celta Vigo (Stream 1)
-https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=mSUIYbPcBalSZkOHC_S5kg&expires=1737948247
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/29.png" group-title="NFL",Kansas City Chiefs vs Buffalo Bills (Stream 1)
-https://jf3.naqsheala.com:999/hls/mkansascitychiefs.m3u8?md5=3v7cGR6aGDrvu-sacniaOA&expires=1737948243
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Winnipeg Jets vs Calgary Flames (Stream 2)
-https://jf2.naqsheala.com:999/hls/mcalgaryflames.m3u8?md5=HW9CMuOIM1mDLOH4qqSQYA&expires=1737948247
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Portland Trail Blazers vs Oklahoma City Thunder (Stream 1)
-https://jf2.naqsheala.com:999/hls/mportlandtrailblazers.m3u8?md5=dGAOTWG_XDddGEQjPpGRKA&expires=1737948245
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Chicago Blackhawks vs Minnesota Wild (Stream 2)
-https://jf2.naqsheala.com:999/hls/mminnesotawild.m3u8?md5=tfdX1fWyBsSHviW8RsWnYg&expires=1737948248
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Vegas Golden Knights vs Florida Panthers (Stream 1)
-https://jf3.naqsheala.com:999/hls/mvegasgoldenknights.m3u8?md5=kzmaOLlmIEZekOng4i163Q&expires=1737948247
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Chicago Blackhawks vs Minnesota Wild (Stream 1)
-https://jf4.naqsheala.com:999/hls/mchicagoblackhawks.m3u8?md5=CHaaF7Vl35iGc9oBbKh2bA&expires=1737948248
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Vegas Golden Knights vs Florida Panthers (Stream 2)
-https://jf1.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=3IT3xejzMMj7_pIJMpcOKw&expires=1737948248
+https://jf4.naqsheala.com:999/hls/mespndeportes.m3u8?md5=7ROcFE_jPkiR2JG9FzgBOQ&expires=1737959000
