@@ -1,19 +1,1 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Utah Hockey Club vs Pittsburgh Penguins (Stream 1)
-https://jf4.naqsheala.com:999/hls/mutahhockeyclub.m3u8?md5=UBZRD2lUf50MpKaeN5H11Q&expires=1738218079
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Nashville Predators vs Vancouver Canucks (Stream 2)
-https://jf3.naqsheala.com:999/hls/mvancouvercanucks.m3u8?md5=zS4m5WV_zqSMNhMmjvM1WA&expires=1738218074
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Utah Hockey Club vs Pittsburgh Penguins (Stream 2)
-https://jf4.naqsheala.com:999/hls/mpittsburghpenguins.m3u8?md5=yErTFiBz_pwIGqHwqJFb6w&expires=1738218082
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Nashville Predators vs Vancouver Canucks (Stream 1)
-https://jf4.naqsheala.com:999/hls/mtnashvillepredators.m3u8?md5=ak6lt7SDTJ9qeiV_tscfxQ&expires=1738218080
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Golden State Warriors vs Oklahoma City Thunder (Stream 1)
-https://jf4.naqsheala.com:999/hls/mgoldenstatewarriors.m3u8?md5=YfzEtih0r0SjfSMtDvfnuw&expires=1738218083
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Phoenix Suns vs Minnesota Timberwolves (Stream 1)
-https://jf1.naqsheala.com:999/hls/mphoenixsuns.m3u8?md5=CgL6y3Fgc-kZF7kidIir4A&expires=1738218083
