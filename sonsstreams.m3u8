@@ -1,4 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Leganés vs Rayo Vallecano (Stream 1)
-https://jf3.naqsheala.com:999/hls/mespndeportes.m3u8?md5=-M8axrcx4OKM206Urt-b0w&expires=1738334136
+https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=BXx9jyicm0y2iWUrj3bFyw&expires=1738347746
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/31.png" group-title="BOXING",Liddard vs Osaze (Stream 1)
+https://jf3.naqsheala.com:999/hls/mevent2.m3u8?md5=kamc03ryjLnj_bxVTRXCww&expires=1738347746
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/31.png" group-title="BOXING",Gadzhimagomedov vs Mchunu (Stream 1)
+https://jf3.naqsheala.com:999/hls/mevent1.m3u8?md5=mpThwLCIv8jUj2lfbOoQyg&expires=1738347746
