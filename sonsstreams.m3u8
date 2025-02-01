@@ -1,73 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Wolverhampton vs Aston Villa (Stream 1)
-https://jf2.naqsheala.com:999/hls/nwolverhamptonwanderers.m3u8?md5=qnNNQSvqV6cmD-QUgUFlyw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs St. Louis Blues (Stream 1)
-https://jf2.naqsheala.com:999/hls/mcoloradoavalanche.m3u8?md5=lue3iuwetMeFTIBTk2cnLw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Golden State Warriors vs Phoenix Suns (Stream 1)
-https://jf2.naqsheala.com:999/hls/mgoldenstatewarriors.m3u8?md5=zG0RQlmGpM1dBVh63s_idw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Everton vs Leicester City (Stream 1)
-https://jf4.naqsheala.com:999/hls/neverton.m3u8?md5=UPwHZNw0CkgAZjDEo-DBAw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/28.png" group-title="UFC",Israel Adesanya vs Nassourdine Imavov (Stream 2)
-https://jf1.naqsheala.com:999/hls/mevent2.m3u8?md5=nCykGcdtP4x8-Rq78iTjKQ&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Atlético Madrid vs Mallorca (Stream 1)
-https://jf3.naqsheala.com:999/hls/mespndeportes.m3u8?md5=QOJie4LUS2ql3kY8H9-dVA&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Getafe vs Sevilla (Stream 1)
-https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=QOJie4LUS2ql3kY8H9-dVA&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Utah Hockey Club vs Columbus Blue Jackets (Stream 1)
-https://jf2.naqsheala.com:999/hls/mutahhockeyclub.m3u8?md5=bmF7UOdXIjSs4LOdd_6vzw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Indiana Pacers vs Atlanta Hawks (Stream 1)
-https://jf4.naqsheala.com:999/hls/mindianapacers.m3u8?md5=9MumiuTLBndlspi0hPviNw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs New York Rangers (Stream 1)
-https://jf1.naqsheala.com:999/hls/mbostonbruins.m3u8?md5=G003F1FTXxZrLu2YCVcB1g&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/49.png" group-title="MMA/PFL",Lux vs 049 (Stream 1)
-https://jf4.naqsheala.com:999/hls/mevent3.m3u8?md5=VYfVqMDVwFEQfQswz8HCbQ&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Villarreal vs Real Valladolid (Stream 1)
-https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=QOJie4LUS2ql3kY8H9-dVA&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs New York Rangers (Stream 2)
-https://jf2.naqsheala.com:999/hls/mnewyorkrangers.m3u8?md5=HmTf4u2KJzIL8GKfOETm2Q&expires=1738390850
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Nottingham Forest vs Brighton & Hove Albion (Stream 1)
-https://jf4.naqsheala.com:999/hls/nnottinghamforest.m3u8?md5=YIx1CTvG87t8W_ysG8bzSA&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Newcastle United vs Fulham (Stream 1)
-https://jf3.naqsheala.com:999/hls/nnewcastleunited.m3u8?md5=05VkfpLE6Id_wRRL9CVtfw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Utah Jazz vs Orlando Magic (Stream 1)
-https://jf1.naqsheala.com:999/hls/mutahjazz.m3u8?md5=nui1XN8X1ZuMGOP8u0enaA&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Colorado Avalanche vs St. Louis Blues (Stream 2)
-https://jf4.naqsheala.com:999/hls/mlouisblue.m3u8?md5=POwyQu3nY0iw8UUKIq0REg&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Florida Panthers vs Chicago Blackhawks (Stream 2)
-https://jf4.naqsheala.com:999/hls/mchicagoblackhawks.m3u8?md5=F9j2SuJxUE3sYmOePow_vw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Ipswich Town vs Southampton (Stream 1)
-https://jf1.naqsheala.com:999/hls/nipswichtown.m3u8?md5=0buR2_5xMhe8tJgdvXs7TQ&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Bournemouth vs Liverpool (Stream 1)
-https://jf2.naqsheala.com:999/hls/nbournemouth.m3u8?md5=SErsDbr0afZoLYsjk9aHpw&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Espanyol vs Real Madrid (Stream 1)
-https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=QOJie4LUS2ql3kY8H9-dVA&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Florida Panthers vs Chicago Blackhawks (Stream 1)
-https://jf2.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=j53ENbUfsFUnOy2jYKKvZg&expires=1738390850
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Utah Hockey Club vs Columbus Blue Jackets (Stream 2)
-https://jf1.naqsheala.com:999/hls/mcolumbusbluejackets.m3u8?md5=TUxnn7Nkuue4YHX6eO6P8Q&expires=1738390841
+https://jf4.naqsheala.com:999/hls/nnottinghamforest.m3u8?md5=1mQKF4_6zduLYGeThJyDQQ&expires=1738405256
 
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/28.png" group-title="UFC",Israel Adesanya vs Nassourdine Imavov (Stream 1)
-https://jf2.naqsheala.com:999/hls/mevent1.m3u8?md5=O8_qjNkix4DxvpugUgKFAA&expires=1738390850
+https://jf3.naqsheala.com:999/hls/mevent1.m3u8?md5=XaZlv_kjjCls4gtewyX_lQ&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Newcastle United vs Fulham (Stream 1)
+https://jf1.naqsheala.com:999/hls/nnewcastleunited.m3u8?md5=LzlpkR3nAPe9uWXACIXgYg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/28.png" group-title="UFC",Israel Adesanya vs Nassourdine Imavov (Stream 2)
+https://jf1.naqsheala.com:999/hls/mevent2.m3u8?md5=hyblC_wC_jRn1ukj39mQvg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs New York Rangers (Stream 1)
+https://jf2.naqsheala.com:999/hls/mbostonbruins.m3u8?md5=A2cxtDSoBotTZWq0fnNJFQ&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Wolverhampton vs Aston Villa (Stream 1)
+https://jf1.naqsheala.com:999/hls/nwolverhamptonwanderers.m3u8?md5=tNpzgFhr9ifTfabUEfz35A&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Everton vs Leicester City (Stream 1)
+https://jf4.naqsheala.com:999/hls/neverton.m3u8?md5=r4hfjVF5e_k0nsrgiaA6Yw&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Boston Bruins vs New York Rangers (Stream 2)
+https://jf1.naqsheala.com:999/hls/mnewyorkrangers.m3u8?md5=t2hBMn1J-E-dYpdzwlI8Cg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Atlético Madrid vs Mallorca (Stream 1)
+https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=De218yomKoPft3w6PIz3Xg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Villarreal vs Real Valladolid (Stream 1)
+https://jf3.naqsheala.com:999/hls/mespndeportes.m3u8?md5=De218yomKoPft3w6PIz3Xg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Utah Jazz vs Orlando Magic (Stream 1)
+https://jf2.naqsheala.com:999/hls/mutahjazz.m3u8?md5=RMDfpAKWNks7frsN7A5wSQ&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Florida Panthers vs Chicago Blackhawks (Stream 2)
+https://jf3.naqsheala.com:999/hls/mchicagoblackhawks.m3u8?md5=lBumxpNtHdFEW36oja_NtA&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/46.png" group-title="NHL",Florida Panthers vs Chicago Blackhawks (Stream 1)
+https://jf1.naqsheala.com:999/hls/mfloridapanthers.m3u8?md5=RbR9bpha4qNU0fuRG3JzJg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Ipswich Town vs Southampton (Stream 1)
+https://jf4.naqsheala.com:999/hls/nipswichtown.m3u8?md5=qJYh_FdQJmi33ycMl2IIPQ&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Indiana Pacers vs Atlanta Hawks (Stream 1)
+https://jf2.naqsheala.com:999/hls/mindianapacers.m3u8?md5=8KbP65NsUs2C3hazLSo-Ig&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Bournemouth vs Liverpool (Stream 1)
+https://jf1.naqsheala.com:999/hls/nbournemouth.m3u8?md5=rU40MPl7s2t8_f1pHVZppw&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Espanyol vs Real Madrid (Stream 1)
+https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=De218yomKoPft3w6PIz3Xg&expires=1738405256
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Getafe vs Sevilla (Stream 1)
+https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=De218yomKoPft3w6PIz3Xg&expires=1738405256
