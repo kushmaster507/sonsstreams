@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Girona FC vs Las Palmas (Stream 1)
-https://jf1.naqsheala.com:999/hls/mespndeportes.m3u8?md5=RbvmNzoh23BYkZQfDZWxHg&expires=1738578260
-
 #EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/13.png" group-title="PREMIER LEAGUE",Chelsea vs West Ham United (Stream 1)
-https://jf2.naqsheala.com:999/hls/nchelsea.m3u8?md5=uLRwL-2FrRxS6xOKGquzrA&expires=1738578260
+https://jf1.naqsheala.com:999/hls/nchelsea.m3u8?md5=duesen_VpZEai2cHDY21RQ&expires=1738593372
+
+#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/79.png" group-title="LA LIGA ",Girona FC vs Las Palmas (Stream 1)
+https://jf3.naqsheala.com:999/hls/mespndeportes.m3u8?md5=oDuFJ_Zp9OCnBo-EkF-k3g&expires=1738593372
