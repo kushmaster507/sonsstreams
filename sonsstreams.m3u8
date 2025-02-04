@@ -1,13 +1,1 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Golden State Warriors vs Orlando Magic (Stream 1)
-https://jf3.naqsheala.com:999/hls/mgoldenstatewarriors.m3u8?md5=nTWR6knZwPaFmN1D9aOwBw&expires=1738650070
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Utah Jazz vs Indiana Pacers (Stream 1)
-https://jf4.naqsheala.com:999/hls/mutahjazz.m3u8?md5=jfIXsuJ-SCHfPG7y2xGnfg&expires=1738650078
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Portland Trail Blazers vs Phoenix Suns (Stream 1)
-https://jf1.naqsheala.com:999/hls/mportlandtrailblazers.m3u8?md5=aO45Snp7hiadhMhb3jPngA&expires=1738650077
-
-#EXTINF:-1 tvg-logo="https://backlinkhd.com/assets/uploads/leagues/10.png" group-title="NBA",Denver Nuggets vs New Orleans Pelicans (Stream 1)
-https://jf3.naqsheala.com:999/hls/mdenvernuggets.m3u8?md5=JIVI8qqoUqLIU6Z_mMFKCA&expires=1738650078
